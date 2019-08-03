@@ -1,1 +1,2 @@
 # Java-AgileSoftwareDevelopment
+本を読んで写経したり、思いついたことをコードにしたりする
