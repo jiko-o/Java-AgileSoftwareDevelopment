@@ -1,12 +1,9 @@
-public class Frame
-{
-	public int getScore()
-	{
+public class Frame{
+	public int getScore(){
 		return itsScore;
 	}
-
-	public void add(int pins)
-	{
+	
+	public void add(int pins){
 		itsScore += pins;
 	}
 	private int itsScore = 0;
